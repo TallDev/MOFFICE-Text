@@ -1,2 +1,2 @@
 # MOFFICE-Text
-OpenSource-Office
+OpenSource-Office by Tallerik and MayusYT
